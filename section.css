@@ -21,6 +21,7 @@
         height: 90vh;
         padding: 8em 0px 1em 0px;
         background-size:  cover;
+        background-position: top;
         transition: 1s ease-in-out;
         background-attachment: fixed
     }
@@ -44,7 +45,7 @@
         .welcome-zone{
             height: 80vh;
             padding: 10em 0px 0em 0px;
-            background-size:100% 80%;
+            background-size:cover;
             background-repeat:no-repeat;
             background-color:none;
             background-position: top;
@@ -65,12 +66,28 @@
         color: white;
         text-align: center;
     }
+    .welcome-fundo1{
+        background-image: url(fundo1-mob.jpg);
+        transition: 1s ease-in-out;
+    }
+    .welcome-fundo2{
+        background-image: url(fundo2-mob.jpg);
+        transition: 1s ease-in-out;
+    }
+    .welcome-fundo3{
+        background-image: url(fundo3-mob.jpg);
+        transition: 1s ease-in-out;
+    }
+    .welcome-fundo4{
+        background-image: url(fundo4-mob.jpg);
+        transition: 1s ease-in-out;
+    }
     }
     @media(max-width: 560px){
         .welcome-zone{
             height: 60vh;
             padding: 9em 0px 0em 0px;
-            background-size:100% 70%;
+            background-size:100%;
             background-attachment: none;
             background-repeat:no-repeat;
             background-color:none;
