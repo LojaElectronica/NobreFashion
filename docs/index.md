@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bem vindo ao pages
 
 You can use the [editor on GitHub](https://github.com/LojaElectronica/nobrefashion/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -30,7 +30,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LojaElectronica/nobrefashion/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Informações sobre as paginas do web site in your [repository settings](https://github.com/LojaElectronica/nobrefashion/produtos.html). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
